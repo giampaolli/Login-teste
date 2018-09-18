@@ -1,4 +1,4 @@
-package com.example.giampaoli.login_teste.config;
+package com.example.giampaoli.organize.config;
 
 import com.google.firebase.auth.FirebaseAuth;
 

@@ -1,12 +1,12 @@
-package com.example.giampaoli.login_teste.activity;
+package com.example.giampaoli.organize.activity;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
-import com.example.giampaoli.login_teste.R;
-import com.example.giampaoli.login_teste.config.ConfiguracaoFirebase;
+import com.example.giampaoli.organize.R;
+import com.example.giampaoli.organize.config.ConfiguracaoFirebase;
 import com.google.firebase.auth.FirebaseAuth;
 import com.heinrichreimersoftware.materialintro.app.IntroActivity;
 import com.heinrichreimersoftware.materialintro.slide.FragmentSlide;

@@ -1,4 +1,4 @@
-package com.example.giampaoli.login_teste.model;
+package com.example.giampaoli.organize.model;
 
 public class Usuario {
 

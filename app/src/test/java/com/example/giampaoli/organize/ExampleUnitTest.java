@@ -1,4 +1,4 @@
-package com.example.giampaoli.login_teste;
+package com.example.giampaoli.organize;
 
 import org.junit.Test;
 

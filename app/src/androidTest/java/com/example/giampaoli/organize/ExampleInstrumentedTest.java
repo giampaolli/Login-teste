@@ -1,4 +1,4 @@
-package com.example.giampaoli.login_teste;
+package com.example.giampaoli.organize;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.giampaoli.login_teste", appContext.getPackageName());
+        assertEquals("com.example.giampaoli.organize", appContext.getPackageName());
     }
 }
